@@ -23,7 +23,11 @@
     
 
     &.large {
-        height: 600vh;
+        height: 430px;
+    }
+
+    &.small{
+      height: 250px;
     }
   
     &:first-child {
